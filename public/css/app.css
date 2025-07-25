@@ -1,0 +1,15 @@
+body {
+	font-family: "Tahoma";
+
+	display: flex;
+}
+
+main {
+	display: contents;
+}
+
+canvas#MainCanvas {
+	border: 1px solid black;
+	width: 100vw;
+	height: 100vh
+}
